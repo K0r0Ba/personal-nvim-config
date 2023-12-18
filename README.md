@@ -2,7 +2,7 @@ Hello, this is my personal NeoVIM config based on popular (yet efffective) tools
 
 **Prerequisites:**
 
-    1. NeoVIM version >0.8.0
+    1. NeoVIM version >0.9.0
     2. VimPlug
 
 __Installation:__
